@@ -53,3 +53,18 @@ Soy un desarrollador junior full stack web con formación en desarrollo de softw
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+
+## Descargar mi CV
+
+[![Descargar CV](https://img.shields.io/badge/Descargar%20CV-blue?style=for-the-badge)](https://tucv.com/mi_cv.pdf)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SamuelTorresOspina&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTorresOspina&layout=compact&theme=dark&hide_border=true)
+
+> 🧠 **Random Dev Quote**
+
+> *"You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity."*  
+> — *John Romero*
+
